@@ -1,1 +1,1 @@
-# SeleniumPracticeNameAltan
+# SeleniumPracticeAppAltan
